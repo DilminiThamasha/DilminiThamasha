@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Dilmini Thamasha
 - 👀 I’m interested in developing mobile applications 
 - 🌱 I’m currently following my bachelor in IT 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - thamashasudusinghe61@gmail.com
 
 <!---
